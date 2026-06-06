@@ -9,7 +9,7 @@ I'm an emerging ML practitioner passionate about using data and machine learning
 ## 🛠️ Skills & Tools
 
 **Languages & Libraries**
-`Python` `NumPy` `pandas` `scikit-learn` `matplotlib` `seaborn`
+`Python` `NumPy` `pandas` `matplotlib` `seaborn` `scikit-learn`
 
 **Core Competencies**
 `Data Wrangling` `EDA` `Data Visualization` `Predictive Modeling` `Machine Learning`
