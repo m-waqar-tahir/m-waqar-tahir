@@ -2,20 +2,20 @@
 
 **BS Computer Science Graduate · Faisalabad, Pakistan 🇵🇰**
 
-I'm an emerging ML practitioner passionate about using data and machine learning to solve real-world problems — particularly in education and social impact. My focus areas include **Predictive Modeling**, **EDA**, and **AI for Social Good**.
+I'm an emerging ML practitioner passionate about using data and machine learning to solve real-world problems, particularly in education and social impact. My focus areas include **Predictive Modeling**, **EDA**, and **AI for Social Good**.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 **Languages & Libraries**
-`Python` `pandas` `NumPy` `scikit-learn` `matplotlib` `seaborn`
+`Python` `NumPy` `pandas` `scikit-learn` `matplotlib` `seaborn`
 
 **Core Competencies**
-`Machine Learning` `Data Wrangling` `EDA` `Data Visualization` `Predictive Modeling`
+`Data Wrangling` `EDA` `Data Visualization` `Predictive Modeling` `Machine Learning`
 
 **Tools**
-`Jupyter Notebook` `Google Colab` `GitHub`
+`Jupyter Notebook` `Visual Studio Code` `Google Colab` `GitHub`
 
 ---
 
@@ -24,7 +24,7 @@ I'm an emerging ML practitioner passionate about using data and machine learning
 ### 🎓 Student Performance Predictor
 > **Binary classification model to predict student pass/fail outcomes**
 
-Built a complete ML pipeline using Python and scikit-learn to predict whether a student will pass or fail based on behavioral features — study hours, attendance, previous scores, sleep patterns, and extracurricular activity.
+Built a complete ML pipeline using Python and scikit-learn to predict whether a student will pass or fail based on behavioral features: study hours, attendance, previous scores, sleep patterns, and extracurricular activity.
 
 - Performed full **Exploratory Data Analysis** with visualizations
 - Trained and compared **Logistic Regression** (baseline) vs **Random Forest** (improved model)
@@ -33,7 +33,7 @@ Built a complete ML pipeline using Python and scikit-learn to predict whether a 
 - **Achieved 80%+ accuracy** on held-out test data
 - Includes a live prediction demo: input a student's stats → get pass/fail probability
 
-**Tech:** Python · scikit-learn · pandas · matplotlib · seaborn · Jupyter Notebook
+**Tech:** Python · pandas · matplotlib · seaborn · scikit-learn · Jupyter Notebook
 
 📁 [View Project Repository](https://github.com/m-waqar-tahir/student-performance-predictor)
 
@@ -50,7 +50,7 @@ Built a complete ML pipeline using Python and scikit-learn to predict whether a 
 | Data Science & Analytics | HP Life | Feb 2026 |
 | Critical Thinking in the AI Era | HP Life | Feb 2026 |
 
-🔗 [View all certifications on Credly](https://www.credly.com/users/muhammad-waqar-tahir)
+To See Certifications 🔗 [Credly Profile](https://www.credly.com/users/muhammad-waqar-tahir) | [MS Learn Profile](https://learn.microsoft.com/en-us/users/muhammadwaqartahir-4262/)
 
 ---
 
@@ -65,7 +65,7 @@ Relevant coursework: Artificial Intelligence · Data Mining · Data Structures &
 
 ## 🔬 Research Interests
 
-Machine Learning &nbsp;·&nbsp; Pattern Recognition &nbsp;·&nbsp; Predictive Modeling &nbsp;·&nbsp; Transfer Learning &nbsp;·&nbsp; AI for Social Good
+Weakly Machine Learning &nbsp;·&nbsp; Pattern Recognition &nbsp;·&nbsp; Predictive Modeling &nbsp;·&nbsp; Transfer Learning &nbsp;·&nbsp; AI for Social Good
 
 ---
 
