@@ -23,14 +23,16 @@ I'm an aspiring machine learning researcher focused on applying data-driven meth
 ### 🎓 Student Performance Predictor *(Self-Initiated)*
 > Binary classification model predicting student pass/fail outcomes
 
-Designed and built a complete machine learning pipeline in Python to predict whether a student will pass or fail, using behavioral features such as study hours, attendance, previous scores, sleep patterns, and extracurricular activity.
+Designed and built a complete machine learning pipeline in Python to predict whether a student will pass or fail, using a synthetically generated dataset of 1,000 student records modeled on realistic behavioral patterns: study hours, attendance, previous scores, sleep hours, and extracurricular participation.
 
-- Conducted full exploratory data analysis with visualizations
-- Compared a Logistic Regression baseline against a Random Forest model
+- Conducted full exploratory data analysis, including distribution plots and a feature correlation heatmap
+- Compared a Logistic Regression baseline against a Random Forest classifier
 - Evaluated performance using accuracy, confusion matrices, and classification reports
+- Ran feature importance analysis to identify the strongest predictors of student success
 - Achieved **80%+ accuracy** on held-out test data
+- Built a live prediction function to test outcomes for new student inputs
 
-**Tech:** Python · pandas · matplotlib · seaborn · scikit-learn
+**Tech:** Python · pandas · NumPy · matplotlib · seaborn · scikit-learn
 📁 [View Repository](https://github.com/m-waqar-tahir/student-performance-predictor)
 
 ---
