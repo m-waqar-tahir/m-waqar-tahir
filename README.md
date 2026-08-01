@@ -1,8 +1,7 @@
 # Hi, I'm Muhammad Waqar Tahir 👋
-
 **BS Computer Science Graduate · Faisalabad, Pakistan 🇵🇰**
 
-I'm an emerging ML practitioner passionate about using data and machine learning to solve real-world problems, particularly in education and social impact. My focus areas include **Predictive Modeling**, **EDA**, and **AI for Social Good**.
+I'm an aspiring machine learning researcher focused on applying data-driven methods to real-world problems, particularly in education and social impact. My core interests lie in **predictive modeling**, **exploratory data analysis**, and **AI for social good**, and I'm currently working toward a master's in research where I can deepen this work.
 
 ---
 
@@ -12,7 +11,7 @@ I'm an emerging ML practitioner passionate about using data and machine learning
 `Python` `NumPy` `pandas` `matplotlib` `seaborn` `scikit-learn`
 
 **Core Competencies**
-`Data Wrangling` `EDA` `Data Visualization` `Predictive Modeling` `Machine Learning`
+`Data Cleaning` `EDA` `Data Visualization` `Predictive Modeling` `Classification` `Regression` `Clustering` `Model Evaluation`
 
 **Tools**
 `Jupyter Notebook` `Visual Studio Code` `Google Colab` `GitHub`
@@ -21,21 +20,56 @@ I'm an emerging ML practitioner passionate about using data and machine learning
 
 ## 🚀 Projects
 
-### 🎓 Student Performance Predictor
-> **Binary classification model to predict student pass/fail outcomes**
+### 🎓 Student Performance Predictor *(Self-Initiated)*
+> Binary classification model predicting student pass/fail outcomes
 
-Built a complete ML pipeline using Python and scikit-learn to predict whether a student will pass or fail based on behavioral features: study hours, attendance, previous scores, sleep patterns, and extracurricular activity.
+Designed and built a complete machine learning pipeline in Python to predict whether a student will pass or fail, using behavioral features such as study hours, attendance, previous scores, sleep patterns, and extracurricular activity.
 
-- Performed full **Exploratory Data Analysis** with visualizations
-- Trained and compared **Logistic Regression** (baseline) vs **Random Forest** (improved model)
-- Evaluated with accuracy scores, confusion matrices, and classification reports
-- Used **feature importance analysis** to identify the top predictors of success
-- **Achieved 80%+ accuracy** on held-out test data
-- Includes a live prediction demo: input a student's stats → get pass/fail probability
+- Conducted full exploratory data analysis with visualizations
+- Compared a Logistic Regression baseline against a Random Forest model
+- Evaluated performance using accuracy, confusion matrices, and classification reports
+- Achieved **80%+ accuracy** on held-out test data
 
-**Tech:** Python · pandas · matplotlib · seaborn · scikit-learn · Jupyter Notebook
+**Tech:** Python · pandas · matplotlib · seaborn · scikit-learn
+📁 [View Repository](https://github.com/m-waqar-tahir/student-performance-predictor)
 
-📁 [View Project Repository](https://github.com/m-waqar-tahir/student-performance-predictor)
+---
+
+### 📊 Customer Segmentation using RFM Analysis & K-Means *(CloudExify)*
+> Segmented 22,000+ customers from real transaction-level retail data
+
+Engineered RFM (Recency, Frequency, Monetary) features from 64,000+ transactions, validating data quality at each stage, then applied K-Means clustering to uncover distinct customer segments. Log-transformed skewed features before scaling to prevent extreme values from dominating the clusters.
+
+**Tech:** Python · pandas · scikit-learn · matplotlib · seaborn
+
+---
+
+### 🛒 E-Commerce Sales Data Analysis *(CloudExify)*
+> Exploratory analysis of product, regional, and time-based sales trends
+
+Analyzed e-commerce sales data to identify top-performing products, monthly trends, and category-level breakdowns, and delivered a written summary report of key findings.
+
+**Tech:** Python · pandas · matplotlib · seaborn
+
+---
+
+### 🎯 Student Employability Prediction *(Vortex Tech)*
+> Predicting hiring likelihood for Pakistani university students
+
+Cleaned and analyzed a dataset of roughly 48,000 student records, then built and compared Logistic Regression and Decision Tree classifiers to predict hiring outcomes despite a 96/4 class imbalance. Also developed regression models to estimate expected salary and applied K-Means clustering on academic performance data.
+
+**Tech:** Python · pandas · scikit-learn · matplotlib · seaborn
+
+---
+
+### 🎬 Sentiment Analysis on IMDB Movie Reviews *(Vortex Tech)*
+> Binary sentiment classification on 50,000 movie reviews
+
+Cleaned raw review text, extracted 5,000 TF-IDF features, and compared Logistic Regression against Multinomial Naive Bayes for sentiment classification.
+
+- Achieved **88.85% accuracy** with Logistic Regression
+
+**Tech:** Python · scikit-learn · TF-IDF
 
 ---
 
@@ -43,29 +77,29 @@ Built a complete ML pipeline using Python and scikit-learn to predict whether a 
 
 | Certification | Issuer | Date |
 |---|---|---|
-| Azure AI Fundamentals (AI-900) | Microsoft | Jan 2026 |
+| Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft | Jan 2026 |
+| Work Smarter with AI | Microsoft | Feb 2026 |
 | Introduction to AI Concepts | Microsoft | Feb 2026 |
 | Introduction to Machine Learning Concepts | Microsoft | Feb 2026 |
 | Introduction to Generative AI and Agents | Microsoft | Feb 2026 |
 | Data Science & Analytics | HP Life | Feb 2026 |
 | Critical Thinking in the AI Era | HP Life | Feb 2026 |
+| Explore and Analyze Data with Python | Microsoft | May 2026 |
 
-To See Certifications 🔗 [Credly Profile](https://www.credly.com/users/muhammad-waqar-tahir) | [MS Learn Profile](https://learn.microsoft.com/en-us/users/muhammadwaqartahir-4262/)
+🔗 [Credly Profile](https://www.credly.com/users/muhammad-waqar-tahir) · [Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/muhammadwaqartahir-4262/)
 
 ---
 
 ## 🎓 Education
 
 **BS Computer Science** — Government College University, Faisalabad *(2020 – 2025)*
-**GPA: 3.22 / 4.00**
-
-Relevant coursework: Artificial Intelligence · Data Mining · Data Structures & Algorithms · Database Systems · OOP · Linear Algebra
+**GPA:** 3.22 / 4.00
 
 ---
 
 ## 🔬 Research Interests
 
-Weakly Machine Learning &nbsp;·&nbsp; Pattern Recognition &nbsp;·&nbsp; Predictive Modeling &nbsp;·&nbsp; Transfer Learning &nbsp;·&nbsp; AI for Social Good
+Machine Learning · Pattern Recognition · Predictive Modeling · Transfer Learning · AI for Social Good
 
 ---
 
