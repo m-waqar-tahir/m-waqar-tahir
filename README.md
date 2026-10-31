@@ -99,6 +99,8 @@ ML pipeline predicting loan default risk, handling class imbalance with precisio
 | Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft | Jan 2026 | [Credly](https://www.credly.com/badges/9e20667a-2e8b-4946-86f9-9a7349dcc7bc) |
 | Artificial Intelligence (AI) for Social Impact | ADB Institute | Jun 2026 | [ADBI Verifier](https://elearning-adbi.org/certificate-verifier/?&code=179305-178-117-2306) |
 | Google AI Essentials | Google (via Coursera) | Aug 2026 | [Credly](https://www.credly.com/badges/e83e49bf-e32b-4d2f-bd5f-e2c9915a2027) |
+| Data Science & Analytics | HP Life | Feb 2026 | n/a |
+| Introduction to Machine Learning Concepts | Microsoft | Feb 2026 | n/a |
 
 ---
 
